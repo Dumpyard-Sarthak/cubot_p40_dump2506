@@ -1,0 +1,50 @@
+﻿{
+  "Name": "草莓",
+  "ID": "800109_1",
+  "Type": 1,
+  "loop": 1,
+  "music": "aaa.mp3",
+  "texture": [
+     {
+      "mframeCount": 30,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 1,
+      "scale_Type": 0,
+      "scale_ratio": 200,
+      "anchor_offset_x": -380,
+      "anchor_offset_y": 150,
+      "asize_offset_x": 750,
+      "asize_offset_y": 650,
+      "mfaceCount": 1,
+      "imageName": "hand_"
+    },
+    {
+      "mframeCount": 15,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 1,
+      "scale_Type": 0,
+      "scale_ratio": 160,
+      "anchor_offset_x": -215,
+      "anchor_offset_y": -110,
+      "asize_offset_x": 426,
+      "asize_offset_y": 200,
+      "mfaceCount": 1,
+      "imageName": "face_"
+    },
+    {
+      "mframeCount": 45,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 1,
+      "scale_ratio": 240,
+      "anchor_offset_x": -320,
+      "anchor_offset_y": -570,
+      "asize_offset_x": 633,
+      "asize_offset_y": 300,
+      "mfaceCount": 1,
+      "imageName": "ear_"
+    }
+  ]
+}

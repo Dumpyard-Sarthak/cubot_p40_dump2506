@@ -1,0 +1,65 @@
+﻿{
+  "Name": "熊睡觉",
+  "ID": "800140_1",
+  "Type": 1,
+  "loop": 1,
+  "music": "aaa.mp3",
+  "texture": [
+    {
+      "mframeCount": 13,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 1,
+      "scale_Type": 0,
+      "scale_ratio": 180,
+      "anchor_offset_x": -400,
+      "anchor_offset_y": -103,
+      "asize_offset_x": 750,
+      "asize_offset_y": 300,
+      "mfaceCount": 1,
+      "imageName": "dec_"
+    },
+    {
+      "mframeCount": 20,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 1,
+      "scale_Type": 0,
+      "scale_ratio": 200,
+      "anchor_offset_x": -210,
+      "anchor_offset_y": -145,
+      "asize_offset_x": 350,
+      "asize_offset_y": 237,
+      "mfaceCount": 1,
+      "imageName": "face_"
+    },
+    {
+      "mframeCount": 40,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 1,
+      "scale_Type": 0,
+      "scale_ratio": 170,
+      "anchor_offset_x": -260,
+      "anchor_offset_y": -20,
+      "asize_offset_x": 630,
+      "asize_offset_y": 623,
+      "mfaceCount": 1,
+      "imageName": "hand_"
+    },
+    {
+      "mframeCount": 26,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 1,
+      "scale_Type": 0,
+      "scale_ratio": 210,
+      "anchor_offset_x": -325,
+      "anchor_offset_y": -600,
+      "asize_offset_x": 612,
+      "asize_offset_y": 409,
+      "mfaceCount": 1,
+      "imageName": "head_"
+    }
+  ]
+}

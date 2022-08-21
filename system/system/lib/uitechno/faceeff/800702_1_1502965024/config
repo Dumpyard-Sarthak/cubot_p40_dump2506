@@ -1,0 +1,55 @@
+﻿{
+  "Name": "洗澡泡泡",
+  "ID": "800702_1",
+  "Type": 1,
+  "loop": 1,
+  "music": "aaa.mp3",
+  "restart": [0],
+  "framerate": 10,
+  "texture": [
+    {
+      "mframeCount": 40,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 0,
+      "scale_Type": 0,
+      "scale_ratio": 170,
+      "anchor_offset_x": -370,
+      "anchor_offset_y": -620,
+      "asize_offset_x": 720,
+      "asize_offset_y": 623,
+      "mfaceCount": 1,
+      "imageName": "head_"
+    },
+    {
+      "mframeCount": 40,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 1,
+      "scale_Type": 0,
+      "scale_ratio": 180,
+      "anchor_offset_x": -40,
+      "anchor_offset_y": -50,
+      "asize_offset_x": 100,
+      "asize_offset_y": 100,
+      "mfaceCount": 1,
+      "imageName": "noise_"
+    },
+    {
+      "mframeCount": 40,
+      "radius_Type": 1,
+      "mradius": 0,
+      "mid_Type": 2,
+      "mid_x": 0.5,
+      "mid_y": 0.5,
+      "scale_Type": 1,
+      "scale_ratio":1,
+      "anchor_offset_x":-360,
+      "anchor_offset_y":-640,
+      "asize_offset_x": 720,
+      "asize_offset_y": 1280,
+      "mfaceCount": 1,
+      "imageName": "dec_"
+    }
+  ]
+}

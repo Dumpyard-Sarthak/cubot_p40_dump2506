@@ -1,0 +1,50 @@
+﻿{
+  "Name": "胡萝卜",
+  "ID": "800238_1",
+  "Type": 1,
+  "loop": 1,
+  "music": "aaa.mp3",
+  "texture": [
+     {
+      "mframeCount": 30,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 1,
+      "scale_Type": 0,
+      "scale_ratio": 195,
+      "anchor_offset_x": -328,
+      "anchor_offset_y": -830,
+      "asize_offset_x": 750,
+      "asize_offset_y": 600,
+      "mfaceCount": 1,
+      "imageName": "ear_"
+    },
+    {
+      "mframeCount": 30,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 1,
+      "scale_ratio": 150,
+      "anchor_offset_x": -222,
+      "anchor_offset_y": -80,
+      "asize_offset_x": 450,
+      "asize_offset_y": 210,
+      "mfaceCount": 1,
+      "imageName": "face_"
+    },
+    {
+      "mframeCount": 30,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 3,
+      "scale_Type": 0,
+      "scale_ratio": 170,
+      "anchor_offset_x": -350,
+      "anchor_offset_y": -110,
+      "asize_offset_x": 680,
+      "asize_offset_y": 500,
+      "mfaceCount": 1,
+      "imageName": "hand_"
+    }
+  ]
+}

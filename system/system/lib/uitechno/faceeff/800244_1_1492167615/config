@@ -1,0 +1,79 @@
+﻿{
+  "Name": "小绅士",
+  "ID": "800244_1",
+  "Type": 1,
+  "loop": 1,
+  "music": "aaa.mp3",
+  "texture": [
+    {
+      "mframeCount": 15,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 1,
+      "scale_Type": 0,
+      "scale_ratio": 180,
+      "anchor_offset_x": 200,
+      "anchor_offset_y": 30,
+      "asize_offset_x": 122,
+      "asize_offset_y": 226,
+      "mfaceCount": 1,
+      "imageName": "dec_"
+    },
+    {
+      "mframeCount": 15,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 1,
+      "scale_Type": 0,
+      "scale_ratio": 140,
+      "anchor_offset_x": -170,
+      "anchor_offset_y": -175,
+      "asize_offset_x": 380,
+      "asize_offset_y": 502,
+      "mfaceCount": 1,
+      "imageName": "eye_"
+    },
+    {
+      "mframeCount": 30,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 3,
+      "scale_Type": 0,
+      "scale_ratio": 150,
+      "anchor_offset_x": -237,
+      "anchor_offset_y": -124,
+      "asize_offset_x": 317,
+      "asize_offset_y": 200,
+      "mfaceCount": 1,
+      "imageName": "mouth_"
+    },
+    {
+      "mframeCount": 15,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 1,
+      "scale_Type": 0,
+      "scale_ratio": 160,
+      "anchor_offset_x": -280,
+      "anchor_offset_y": -430,
+      "asize_offset_x": 284,
+      "asize_offset_y": 269,
+      "mfaceCount": 1,
+      "imageName": "head_"
+    },
+    {
+      "mframeCount": 15,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 3,
+      "scale_Type": 0,
+      "scale_ratio": 200,
+      "anchor_offset_x": -200,
+      "anchor_offset_y": 170,
+      "asize_offset_x": 380,
+      "asize_offset_y": 226,
+      "mfaceCount": 1,
+      "imageName": "neck_"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+﻿{
+  "Name": "紫色爱心眼镜",
+  "ID": "800638_1",
+  "Type": 1,
+  "loop": 1,
+  "music": "aaa.mp3",
+  "framerate": 10,
+  "Type": 1,
+  "loop": 1,
+  "texture": [
+     {
+      "mframeCount": 30,
+      "radius_Type": 1,
+      "mradius": 0,
+      "mid_Type": 2,
+      "mid_x": 0.5,
+      "mid_y": 0.5,
+      "scale_Type": 1,
+      "scale_ratio":1,
+      "anchor_offset_x":-360,
+      "anchor_offset_y":-640,
+      "asize_offset_x": 720,
+      "asize_offset_y": 1280,
+      "mfaceCount": 1,
+      "imageName": "bg_"
+    },
+    {
+      "mframeCount": 30,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 0,
+      "scale_Type": 0,
+      "scale_ratio": 170,
+      "anchor_offset_x": -280,
+      "anchor_offset_y": -115,
+      "asize_offset_x": 560,
+      "asize_offset_y": 258,
+      "mfaceCount": 1,
+      "imageName": "eye_" 
+    }
+  ]
+}

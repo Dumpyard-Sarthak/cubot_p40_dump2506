@@ -1,0 +1,48 @@
+{
+  "Name": "蝙蝠侠2",
+  "ID": "800082_1",
+  "Type": 1,
+  "loop": 1,
+  "music": "aaa.mp3",
+  "texture": [
+     {
+      "mframeCount": 38,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 1,
+      "scale_ratio": 160,
+      "anchor_offset_x": -320,
+      "anchor_offset_y": -620,
+      "asize_offset_x": 650,
+      "asize_offset_y": 693,
+      "mfaceCount": 1,
+      "imageName": "head_"
+    },
+    {
+      "mframeCount": 13,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 1,
+      "scale_ratio": 190,
+      "anchor_offset_x": -243,
+      "anchor_offset_y": -100,
+      "asize_offset_x": 500,
+      "asize_offset_y": 185,
+      "mfaceCount": 1,
+      "imageName": "face_"
+    },
+    {
+      "mframeCount": 38,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 1,
+      "scale_ratio": 160,
+      "anchor_offset_x": -360,
+      "anchor_offset_y": -735,
+      "asize_offset_x": 750,
+      "asize_offset_y": 1000,
+      "mfaceCount": 1,
+      "imageName": "dec_"
+    }
+  ]
+}

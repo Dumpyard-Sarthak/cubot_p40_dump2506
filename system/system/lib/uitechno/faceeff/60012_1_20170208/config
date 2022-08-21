@@ -1,0 +1,23 @@
+﻿{
+"Name": "huahuanfly",          
+"ID": "60012_1",             
+"Type": 1,
+"loop": 1,
+"music": "aaa.mp3",         
+"texture": [
+{
+"mframeCount": 75,              
+"radius_Type": 0,               
+"mradius": 0,
+"mid_Type": 0,                 
+"scale_Type": 0,
+"scale_ratio": 85,              
+"anchor_offset_x": -160,        
+"anchor_offset_y": -205,        
+"asize_offset_x": 321,            
+"asize_offset_y": 227,            
+"mfaceCount": 1,           
+"imageName": "tou_"            
+},
+]
+}

@@ -1,0 +1,23 @@
+{
+"Name": "汤圆",
+"ID": "20003_1",
+"Type": 1,
+"loop": 1,
+"music": "aaa.mp3",
+"texture": [
+{
+"radius_Type": 0,
+"mradius": 0,
+"mid_Type": 1,
+"scale_Type": 0,
+"scale_ratio": 73,
+"anchor_offset_x": -185,
+"anchor_offset_y": -310,
+"asize_offset_x": 380,
+"asize_offset_y": 421,
+"mfaceCount": 1,
+"mframeCount": 20,
+"imageName": "tangyuan_"
+}
+]
+}

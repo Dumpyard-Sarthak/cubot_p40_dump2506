@@ -1,0 +1,50 @@
+﻿{
+  "Name": "黑猫",
+  "ID": "800026_1",
+  "Type": 1,
+  "loop": 1,
+  "music": "aaa.mp3",
+  "texture": [
+    {
+      "mframeCount": 45,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 0,
+      "scale_ratio": 180,
+      "anchor_offset_x": -333,
+      "anchor_offset_y": -420,
+      "asize_offset_x": 666,
+      "asize_offset_y": 288,
+      "mfaceCount": 1,
+      "imageName": "ear_"
+    },
+    {
+      "mframeCount": 8,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 1,
+      "scale_Type": 0,
+      "scale_ratio": 180,
+      "anchor_offset_x": -225,
+      "anchor_offset_y": -94,
+      "asize_offset_x": 450,
+      "asize_offset_y": 188,
+      "mfaceCount": 1,
+      "imageName": "face_"
+    },
+    {
+      "mframeCount": 45,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 3,
+      "scale_Type": 0,
+      "scale_ratio": 180,
+      "anchor_offset_x": -175,
+      "anchor_offset_y": 140,
+      "asize_offset_x": 350,
+      "asize_offset_y": 166,
+      "mfaceCount": 1,
+      "imageName": "neck_"
+    }
+  ]
+}

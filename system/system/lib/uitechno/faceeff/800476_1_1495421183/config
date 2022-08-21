@@ -1,0 +1,51 @@
+﻿{
+  "Name": "狐狸雪花-张嘴触发",
+  "ID": "800476_1",
+  "Type": 1,
+  "loop": 1,
+  "music": "aaa.mp3",
+  "texture": [
+    {
+      "mframeCount": 15,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 1,
+      "scale_Type": 0,
+      "scale_ratio": 180,
+      "anchor_offset_x": -295,
+      "anchor_offset_y": -90,
+      "asize_offset_x": 600,
+      "asize_offset_y": 200,
+      "mfaceCount": 1,
+      "imageName": "huzi_"
+    },
+    {
+      "mframeCount": 41,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 1,
+      "scale_Type": 0,
+      "scale_ratio": 170,
+      "anchor_offset_x": -375,
+      "anchor_offset_y": -700,
+      "asize_offset_x": 750,
+      "asize_offset_y": 700,
+      "mfaceCount": 30,
+      "imageName": "huli_"
+    },
+    {
+      "mframeCount": 30,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 0,
+      "scale_Type": 0,
+      "scale_ratio": 185,
+      "anchor_offset_x": -375,
+      "anchor_offset_y": -330,
+      "asize_offset_x": 750,
+      "asize_offset_y": 700,
+      "mfaceCount": 1,
+      "imageName": "xuehua_"
+    }
+  ]
+}

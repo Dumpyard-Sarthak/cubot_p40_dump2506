@@ -1,0 +1,39 @@
+﻿{
+  "Name": "流泪",
+  "ID": "800206_1a",
+  "Type": 1,
+  "loop": 1,
+  "music": "aaa.mp3",
+  "texture": [
+     {
+      "mframeCount": 60,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 0,
+      "scale_Type": 0,
+      "scale_ratio": 160,
+      "anchor_offset_x": -340,
+      "anchor_offset_y": -95,
+      "asize_offset_x": 680,
+      "asize_offset_y": 800,
+      "mfaceCount": 1,
+      "imageName": "eye_"
+    },
+    {
+      "mframeCount": 60,
+      "radius_Type": 1,
+      "mradius": 0,
+      "mid_Type": 2,
+      "mid_x": 0.5,
+      "mid_y": 0.5,
+      "scale_Type": 1,
+      "scale_ratio":1,
+      "anchor_offset_x":-360,
+      "anchor_offset_y":140,
+      "asize_offset_x": 720,
+      "asize_offset_y": 500,
+      "mfaceCount": 1,
+      "imageName": "dec_"
+    }
+  ]
+}

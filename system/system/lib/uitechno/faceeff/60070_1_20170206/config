@@ -1,0 +1,50 @@
+﻿{
+  "Name": "乔巴红",
+  "ID": "60070_1",
+  "Type": 1,
+  "loop": 1,
+  "music": "aaa.mp3",
+  "texture": [
+    {
+      "mframeCount": 50,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 0,
+      "scale_ratio": 72,
+      "anchor_offset_x": -180,
+      "anchor_offset_y": -235,
+      "asize_offset_x": 360,
+      "asize_offset_y": 280,
+      "mfaceCount": 1,
+      "imageName": "qbh1_"
+    },
+    {
+      "mframeCount": 50,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 1,
+      "scale_Type": 0,
+      "scale_ratio": 85,
+      "anchor_offset_x": -51,
+      "anchor_offset_y": -46,
+      "asize_offset_x": 100,
+      "asize_offset_y": 80,
+      "mfaceCount": 1,
+      "imageName": "qbh2_"
+    },
+    {
+      "mframeCount": 50,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 0,
+      "scale_Type": 0,
+      "scale_ratio": 72,
+      "anchor_offset_x": -76,
+      "anchor_offset_y": -10,
+      "asize_offset_x": 150,
+      "asize_offset_y": 80,
+      "mfaceCount": 1,
+      "imageName": "qbh3_"
+    }
+  ]
+}

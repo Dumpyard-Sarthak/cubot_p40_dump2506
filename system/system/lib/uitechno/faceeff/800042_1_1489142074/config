@@ -1,0 +1,50 @@
+﻿{
+  "Name": "天使兔",
+  "ID": "800042_1",
+  "Type": 1,
+  "loop": 1,
+  "music": "aaa.mp3",
+  "texture": [
+     {
+      "mframeCount": 30,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 1,
+      "scale_Type": 0,
+      "scale_ratio": 200,
+      "anchor_offset_x": -259,
+      "anchor_offset_y": -90,
+      "asize_offset_x": 500,
+      "asize_offset_y": 200,
+      "mfaceCount": 1,
+      "imageName": "face_"
+    },
+    {
+      "mframeCount": 30,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 1,
+      "scale_ratio": 200,
+      "anchor_offset_x": -370,
+      "anchor_offset_y": 150,
+      "asize_offset_x": 750,
+      "asize_offset_y": 285,
+      "mfaceCount": 1,
+      "imageName": "dec_"
+    },
+    {
+      "mframeCount": 30,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 0,
+      "scale_Type": 0,
+      "scale_ratio": 180,
+      "anchor_offset_x": -380,
+      "anchor_offset_y": -520,
+      "asize_offset_x": 750,
+      "asize_offset_y": 385,
+      "mfaceCount": 1,
+      "imageName": "head_"
+    }
+  ]
+}

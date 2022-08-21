@@ -1,0 +1,53 @@
+﻿{
+  "Name": "海军帽",
+  "ID": "800264_1",
+  "Type": 1,
+  "loop": 1,
+  "music": "aaa.mp3",
+  "texture": [
+    {
+      "mframeCount": 30,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 3,
+      "scale_Type": 0,
+      "scale_ratio": 200,
+      "anchor_offset_x": -292,
+      "anchor_offset_y": 100,
+      "asize_offset_x": 546,
+      "asize_offset_y": 374,
+      "mfaceCount": 1,
+      "imageName": "neck_"
+    },
+    {
+      "mframeCount": 30,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 1,
+      "scale_Type": 0,
+      "scale_ratio": 230,
+      "anchor_offset_x": -250,
+      "anchor_offset_y": -610,
+      "asize_offset_x": 520,
+      "asize_offset_y": 320,
+      "mfaceCount": 1,
+      "imageName": "head_"
+    },
+    {
+      "mframeCount": 30,
+      "radius_Type": 1,
+      "mradius": 0,
+      "mid_Type": 2,
+      "mid_x": 0.5,
+      "mid_y": 0.5,
+      "scale_Type": 1,
+      "scale_ratio":1,
+      "anchor_offset_x":-360,
+      "anchor_offset_y":-640,
+      "asize_offset_x": 720,
+      "asize_offset_y": 1280,
+      "mfaceCount": 1,
+      "imageName": "dec_"
+    }
+  ]
+}

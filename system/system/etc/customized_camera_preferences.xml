@@ -1,0 +1,107 @@
+<!-- 请修改该配置文件后,集成到/system/etc/目录下面 -->
+<!-- 各个选项请不要修改对应的key值,只修改defaultValue的值,在取值范围内选取,设置取值范围之外的值则为无效值 -->
+
+<CameraPreferences>
+	
+	<!-- 相机屏幕亮度默认值 -->
+    <!-- 取值范围：{low,medium,high},默认为medium -->
+    <Item>
+        <key>pref_camera_screen_brightness_key</key>
+        <defaultValue>high</defaultValue>
+    </Item>
+    
+    <!-- 智能模式 -->
+    <!-- 仅QCOM、MTK平台支持智能模式 -->
+    <!-- 取值范围：{on,off},默认为on -->
+    <Item>
+        <key>pref_camera_smart_mode_enable_key</key>
+        <defaultValue>on</defaultValue>
+    </Item>
+    
+    <!-- ZSL(无延时拍照)功能开关 -->
+    <!-- 取值范围：{on,off},默认为off,设置为on则在相机设置菜单包含ZSL选项 -->
+    <Item>
+        <key>pref_camera_zsl_enable_key</key>
+        <defaultValue>on</defaultValue>
+    </Item>
+    <!-- ZSL(无延时拍照)功能 -->
+    <!-- 取值范围：{on,off},默认为off,设置为on则默认开启ZSL  -->
+    <Item>
+        <key>pref_camera_zsl_key</key>
+        <defaultValue>on</defaultValue>
+    </Item>
+    
+    <!-- 闪光灯默认状态-->
+    <!-- 取值范围：{auto,off,on},设置为auto时摄像闪光灯状态默认为关闭,设置为on时摄像闪光灯状态默认为常亮  -->
+    <Item>
+        <key>pref_camera_flashmode_key</key>
+        <defaultValue>auto</defaultValue>
+    </Item>
+    
+    <!-- 快门声音开关  -->
+    <!-- 取值范围：{on,off},默认为off,在相机设置菜单不包含快门声音选项  -->
+    <!-- 某些国家与区域、运营商要求快门声音不能关闭,该项无效 -->
+    <Item>
+        <key>pref_camera_shutter_sound_enable_key</key>
+        <defaultValue>on</defaultValue>
+    </Item>
+    <!-- 快门声音默认值 -->
+    <!-- 取值范围：{on,off},默认为on  -->
+    <Item>
+        <key>pref_camera_shutter_sound_key</key>
+        <defaultValue>off</defaultValue>
+    </Item>
+        <!-- 地理位置功能开关 -->
+    <!-- 取值范围：{on,off},默认为on,在相机设置菜单包含地理位置选项  -->
+    <Item>
+        <key>pref_camera_recordlocation_enable_key</key>
+        <defaultValue>on</defaultValue>
+    </Item>
+    <!-- 地理位置默认值 -->
+    <!-- 取值范围：{on,off},默认为off  -->
+    <Item>
+        <key>pref_camera_recordlocation_key</key>
+        <defaultValue>off</defaultValue>
+    </Item>
+    
+    <!-- 微距模式 -->
+    <!-- 取值范围：{on,off},默认为off，打开时为on，打开时必须配置pref_camera_macro_lens_camera_id_key -->
+    <Item>
+        <key>pref_camera_macroLens_mode_enable_key</key>
+        <defaultValue>on</defaultValue>
+    </Item>
+    <!-- 微距模式摄像头ID配置 -->
+    <!-- 取值范围：{2,3,...},默认为4，根据实际的微距摄像头id取值 -->
+    <Item>
+        <key>pref_camera_macro_lens_camera_id_key</key>
+        <defaultValue>2</defaultValue>
+    </Item>
+
+    <Item>
+    <key>pref_camera_picturesize_4_3_back</key>
+        <defaultValue>0, 0, -1, -1, -1</defaultValue>
+    </Item>
+    <!-- 后摄16:9分辨率 -->
+    <Item>
+    <key>pref_camera_picturesize_16_9_back</key>
+        <defaultValue>0, 0, -1, -1, -1</defaultValue>
+    </Item>
+    <Item>
+    <key>pref_camera_professional_mode_enable_key</key>
+        <defaultValue>on</defaultValue>
+    </Item>
+    <Item>
+    <key>pref_camera_beautyvideo_mode_enable_key</key>
+        <defaultValue>on</defaultValue>
+    </Item>
+
+    <Item>
+    <key>pref_dualcamera_type_key</key>
+        <defaultValue>cat_brightness_/sys/bus/platform/drivers/image_sensor/bv_val</defaultValue>
+    </Item>
+
+    <Item>
+    <key>pref_camera_bokeh_type_key</key>
+    <defaultValue>blur</defaultValue>
+    </Item>
+</CameraPreferences>

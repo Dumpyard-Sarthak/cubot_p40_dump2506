@@ -1,0 +1,37 @@
+﻿{
+  "Name": "颜文字闪亮亮",
+  "ID": "800215_1",
+  "Type": 1,
+  "loop": 1,
+  "music": "aaa.mp3",
+  "texture": [
+    {
+      "mframeCount": 30,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 1,
+      "scale_Type": 0,
+      "scale_ratio": 175,
+      "anchor_offset_x": -192,
+      "anchor_offset_y": -205,
+      "asize_offset_x": 380,
+      "asize_offset_y": 180,
+      "mfaceCount": 1,
+      "imageName": "eye_"
+    },
+    {
+      "mframeCount": 30,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 1,
+      "scale_Type": 0,
+      "scale_ratio": 180,
+      "anchor_offset_x": -360,
+      "anchor_offset_y": -260,
+      "asize_offset_x": 730,
+      "asize_offset_y": 200,
+      "mfaceCount": 1,
+      "imageName": "dec_"
+    }
+  ]
+}

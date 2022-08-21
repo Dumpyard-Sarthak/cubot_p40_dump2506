@@ -1,0 +1,80 @@
+﻿{
+  "Name": "怕冷熊",
+  "ID": "60083_1",
+  "Type": 1,
+  "loop": 1,
+  "music": "aaa.mp3",
+  "texture": [
+    {
+      "mframeCount": 61,
+      "radius_Type": 1,
+      "mradius": 0,
+      "mid_Type": 2,
+      "mid_x": 0.5,
+      "mid_y": 0.5,
+      "scale_Type": 1,
+      "scale_ratio": 2.56,
+      "anchor_offset_x": -140,
+      "anchor_offset_y": -250,
+      "asize_offset_x": 281,
+      "asize_offset_y": 500,
+      "mfaceCount": 1,
+      "imageName": "bg_"
+    },
+    {
+      "mframeCount": 1,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 1,
+      "scale_Type": 0,
+      "scale_ratio": 67,
+      "anchor_offset_x": -99,
+      "anchor_offset_y": -62,
+      "asize_offset_x": 200,
+      "asize_offset_y": 124,
+      "mfaceCount": 1,
+      "imageName": "sh_"
+    },
+    {
+      "mframeCount": 61,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 1,
+      "scale_ratio": 95,
+      "anchor_offset_x": -100,
+      "anchor_offset_y": -82,
+      "asize_offset_x": 200,
+      "asize_offset_y": 199,
+      "mfaceCount": 1,
+      "imageName": "bizi_"
+    },
+    {
+      "mframeCount": 61,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 3,
+      "scale_Type": 0,
+      "scale_ratio": 75,
+      "anchor_offset_x": -135,
+      "anchor_offset_y": -82,
+      "asize_offset_x": 280,
+      "asize_offset_y": 407,
+      "mfaceCount": 1,
+      "imageName": "shou_"
+    },
+    {
+      "mframeCount": 61,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 0,
+      "scale_Type": 0,
+      "scale_ratio": 95,
+      "anchor_offset_x": -180,
+      "anchor_offset_y": -260,
+      "asize_offset_x": 360,
+      "asize_offset_y": 229,
+      "mfaceCount": 1,
+      "imageName": "tou_"
+    }
+  ]
+}

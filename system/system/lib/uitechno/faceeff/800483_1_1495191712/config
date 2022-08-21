@@ -1,0 +1,50 @@
+﻿{
+  "Name": "闪亮老鼠",
+  "ID": "800483_1",
+  "Type": 1,
+  "loop": 1,
+  "music": "aaa.mp3",
+  "texture": [
+     {
+      "mframeCount": 30,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 1,
+      "scale_Type": 0,
+      "scale_ratio": 180,
+      "anchor_offset_x": -375,
+      "anchor_offset_y": -360,
+      "asize_offset_x": 750,
+      "asize_offset_y": 380,
+      "mfaceCount": 1,
+      "imageName": "dec_"
+    },
+    {
+      "mframeCount": 30,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 0,
+      "scale_ratio": 185,
+      "anchor_offset_x": -370,
+      "anchor_offset_y": -440,
+      "asize_offset_x": 750,
+      "asize_offset_y": 300,
+      "mfaceCount": 1,
+      "imageName": "ear_"
+    },
+    {
+      "mframeCount": 30,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 1,
+      "scale_Type": 0,
+      "scale_ratio": 180,
+      "anchor_offset_x": -249,
+      "anchor_offset_y": -85,
+      "asize_offset_x": 500,
+      "asize_offset_y": 175,
+      "mfaceCount": 1,
+      "imageName": "face_"
+    }
+  ]
+}

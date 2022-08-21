@@ -1,0 +1,36 @@
+﻿{
+  "Name": "皇冠恶魔女",
+  "ID": "800068_1",
+  "Type": 1,
+  "loop": 1,
+  "music": "aaa.mp3",
+  "texture": [
+     {
+      "mframeCount": 22,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 3,
+      "scale_Type": 0,
+      "scale_ratio": 200,
+      "anchor_offset_x": -195,
+      "anchor_offset_y": 118,
+      "asize_offset_x": 390,
+      "asize_offset_y": 360,
+      "mfaceCount": 1,
+      "imageName": "dec_"
+    },
+    {
+      "mframeCount": 43,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 1,
+      "scale_ratio": 190,
+      "anchor_offset_x": -340,
+      "anchor_offset_y": -690,
+      "asize_offset_x": 680,
+      "asize_offset_y": 520,
+      "mfaceCount": 1,
+      "imageName": "head_"
+    }
+  ]
+}

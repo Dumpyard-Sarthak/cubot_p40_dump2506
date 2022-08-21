@@ -1,0 +1,37 @@
+﻿{
+  "Name": "钻石腮红-瑜伽粉",
+  "ID": "800550_1",
+  "Type": 1,
+  "loop": 1,
+  "music": "aaa.mp3",
+  "texture": [
+     {
+      "mframeCount": 31,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 0,
+      "scale_Type": 0,
+      "scale_ratio": 180,
+      "anchor_offset_x": -300,
+      "anchor_offset_y": -428,
+      "asize_offset_x": 600,
+      "asize_offset_y": 400,
+      "mfaceCount": 1,
+      "imageName": "erduo_"
+    },
+    {
+      "mframeCount": 31,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 1,
+      "scale_Type": 0,
+      "scale_ratio": 180,
+      "anchor_offset_x": -225,
+      "anchor_offset_y": -140,
+      "asize_offset_x": 450,
+      "asize_offset_y": 200,
+      "mfaceCount": 1,
+      "imageName": "saihong_"
+    }
+  ]
+}

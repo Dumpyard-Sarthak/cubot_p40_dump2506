@@ -1,0 +1,65 @@
+﻿{
+  "Name": "西装男",
+  "ID": "800410_1",
+  "Type": 1,
+  "loop": 1,
+  "music": "TNE.mp3",
+  "texture": [
+    {
+      "mframeCount": 1,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 3,
+      "scale_Type": 0,
+      "scale_ratio": 165,
+      "anchor_offset_x": -100,
+      "anchor_offset_y": -130,
+      "asize_offset_x": 200,
+      "asize_offset_y": 300,
+      "mfaceCount": 1,
+      "imageName": "huzi_"
+    },
+    {
+      "mframeCount": 1,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 0,
+      "scale_Type": 0,
+      "scale_ratio": 180,
+      "anchor_offset_x": -375,
+      "anchor_offset_y": -520,
+      "asize_offset_x": 750,
+      "asize_offset_y": 510,
+      "mfaceCount": 1,
+      "imageName": "maozi_"
+    },
+    {
+      "mframeCount": 23,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 0,
+      "scale_Type": 0,
+      "scale_ratio": 170,
+      "anchor_offset_x": -321,
+      "anchor_offset_y": -225,
+      "asize_offset_x": 642,
+      "asize_offset_y": 450,
+      "mfaceCount": 1,
+      "imageName": "yanjing_"
+    },
+    {
+      "mframeCount": 23,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 3,
+      "scale_Type": 0,
+      "scale_ratio": 155,
+      "anchor_offset_x": -213,
+      "anchor_offset_y": 60,
+      "asize_offset_x": 426,
+      "asize_offset_y": 900,
+      "mfaceCount": 1,
+      "imageName": "lingdai_"
+    }
+  ]
+}

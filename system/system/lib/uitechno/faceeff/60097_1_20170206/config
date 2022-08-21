@@ -1,0 +1,64 @@
+﻿{
+  "Name": "英伦",
+  "ID": "60097_1",
+  "Type": 1,
+  "loop": 1,
+  "music": "aaa.mp3",
+  "texture": [
+    {
+      "mframeCount": 25,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 3,
+      "scale_Type": 0,
+      "scale_ratio": 115,
+      "anchor_offset_x": -100,
+      "anchor_offset_y": 60,
+      "asize_offset_x": 200,
+      "asize_offset_y": 156,
+      "mfaceCount": 1,
+      "imageName": "lingzi_"
+    },
+    {
+      "mframeCount": 25,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 3,
+      "scale_ratio": 92,
+      "anchor_offset_x": -100,
+      "anchor_offset_y": 60,
+      "asize_offset_x": 200,
+      "asize_offset_y": 128,
+      "mfaceCount": 1,
+      "imageName": "lingjie_"
+    },
+    {
+      "mframeCount": 25,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 0,
+      "scale_Type": 0,
+      "scale_ratio": 108,
+      "anchor_offset_x": -130,
+      "anchor_offset_y": -38,
+      "asize_offset_x": 260,
+      "asize_offset_y": 96,
+      "mfaceCount": 1,
+      "imageName": "yanjing_"
+    },
+    {
+      "mframeCount": 25,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 0,
+      "scale_Type": 0,
+      "scale_ratio": 85,
+      "anchor_offset_x": -130,
+      "anchor_offset_y": -190,
+      "asize_offset_x": 260,
+      "asize_offset_y": 175,
+      "mfaceCount": 1,
+      "imageName": "maozi_"
+    }
+  ]
+}

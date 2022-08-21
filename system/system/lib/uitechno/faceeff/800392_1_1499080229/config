@@ -1,0 +1,37 @@
+﻿{
+  "Name": "蝴蝶结",
+  "ID": "800392_1",
+  "Type": 1,
+  "loop": 1,
+  "music": "aaa.mp3",
+  "texture": [
+     {
+      "mframeCount": 30,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 1,
+      "scale_Type": 0,
+      "scale_ratio": 180,
+      "anchor_offset_x": -375,
+      "anchor_offset_y": -720,
+      "asize_offset_x": 750,
+      "asize_offset_y": 916,
+      "mfaceCount": 1,
+      "imageName": "erduo_"
+    },
+    {
+      "mframeCount": 30,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 1,
+      "scale_Type": 0,
+      "scale_ratio": 180,
+      "anchor_offset_x": -203,
+      "anchor_offset_y": -123,
+      "asize_offset_x": 400,
+      "asize_offset_y": 260,
+      "mfaceCount": 1,
+      "imageName": "huzi_"
+    }
+  ]
+}

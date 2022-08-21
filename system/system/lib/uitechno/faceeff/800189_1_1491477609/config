@@ -1,0 +1,37 @@
+﻿{
+  "Name": "桃花猫",
+  "ID": "800189_1",
+  "Type": 1,
+  "loop": 1,
+  "music": "aaa.mp3",
+  "texture": [
+     {
+      "mframeCount": 30,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 1,
+      "scale_Type": 0,
+      "scale_ratio": 190,
+      "anchor_offset_x": -355,
+      "anchor_offset_y": -490,
+      "asize_offset_x": 730,
+      "asize_offset_y": 390,
+      "mfaceCount": 1,
+      "imageName": "ear_"
+    },
+    {
+      "mframeCount": 15,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 1,
+      "scale_Type": 0,
+      "scale_ratio": 150,
+      "anchor_offset_x": -252,
+      "anchor_offset_y": -105,
+      "asize_offset_x": 500,
+      "asize_offset_y": 200,
+      "mfaceCount": 1,
+      "imageName": "face_"
+    }
+  ]
+}

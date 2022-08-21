@@ -1,0 +1,83 @@
+{
+"Name": "白熊",
+"ID": "80018_1",
+"Type": 1,
+"loop": 1,
+"music": "aaa.mp3",
+"texture": [
+{
+"mframeCount": 41,
+"radius_Type": 0,
+"mradius": 0,
+"mid_Type": 1,
+"scale_ratio": 100,
+"anchor_offset_x": -100,
+"anchor_offset_y": -80,
+"asize_offset_x": 208,
+"asize_offset_y": 163,
+"mfaceCount": 1,
+"imageName": "bizi_"
+},
+{
+"mframeCount": 30,
+"radius_Type": 0,
+"mradius": 0,
+"mid_Type": 0,
+"scale_ratio": 80,
+"anchor_offset_x": -130,
+"anchor_offset_y": -160,
+"asize_offset_x": 285,
+"asize_offset_y": 133,
+"mfaceCount": 1,
+"imageName": "er_"
+},
+{
+"mframeCount": 1,
+"radius_Type": 0,
+"mradius": 0,
+"mid_Type": 0,
+"scale_ratio": 60,
+"anchor_offset_x": -75,
+"anchor_offset_y": -10,
+"asize_offset_x": 148,
+"asize_offset_y": 73,
+"mfaceCount": 1,
+"imageName": "sh_"
+},
+{
+"mframeCount": 73,
+"radius_Type": 0,
+"mradius": 0,
+"mid_Type": 1,
+"scale_Type": 0,
+"scale_ratio": 70,
+"anchor_offset_x": -65,
+"anchor_offset_y": 10,
+"asize_offset_x": 138,
+"asize_offset_y": 90,
+"expression_Type":1,
+"expression_Value":0.5,
+"expression_loop":1,
+"expression_tip":"张开嘴巴",
+"mfaceCount": 1,
+"imageName": "she_"
+},
+{
+"mframeCount": 78,
+"radius_Type": 0,
+"mradius": 0,
+"mid_Type": 1,
+"scale_Type": 0,
+"scale_ratio": 80,
+"anchor_offset_x": -210,
+"anchor_offset_y": -105,
+"asize_offset_x": 472,
+"asize_offset_y": 401,
+"expression_Type":1,
+"expression_Value":0.5,
+"expression_loop":1,
+"mfaceCount": 1,
+"imageName": "shou_"
+}
+]
+}

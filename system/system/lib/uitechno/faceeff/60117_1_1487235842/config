@@ -1,0 +1,67 @@
+{
+  "Name": "冬天猫",
+  "ID": "60117_1",
+  "Type": 1,
+  "loop": 1,
+  "music": "aaa.mp3",
+  "texture": [
+    {
+      "mframeCount": 24,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 0,
+      "scale_ratio": 180,
+      "anchor_offset_x": -275,
+      "anchor_offset_y": -415,
+      "asize_offset_x": 550,
+      "asize_offset_y": 250,
+      "mfaceCount": 1,
+      "imageName": "ear_"
+    },
+    {
+      "mframeCount": 1,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 1,
+      "scale_Type": 0,
+      "scale_ratio": 180,
+      "anchor_offset_x": -235,
+      "anchor_offset_y": -405,
+      "asize_offset_x": 470,
+      "asize_offset_y": 250,
+      "mfaceCount": 1,
+      "imageName": "band_"
+    },
+    {
+      "mframeCount": 24,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 1,
+      "scale_Type": 0,
+      "scale_ratio": 180,
+      "anchor_offset_x": -322,
+      "anchor_offset_y": -240,
+      "asize_offset_x": 645,
+      "asize_offset_y": 340,
+      "mfaceCount": 1,
+      "imageName": "cotton_"
+    },
+    {
+      "mframeCount": 72,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 1,
+      "scale_Type": 0,
+      "scale_ratio": 150,
+      "anchor_offset_x": 65,
+      "anchor_offset_y": -60,
+      "asize_offset_x": 80,
+      "asize_offset_y": 50,
+      "isSuitDirection": 1,
+      "anchor_offset_suit_x": -150,
+      "anchor_offset_suit_y": -60,
+      "mfaceCount": 1,
+      "imageName": "deco_"
+    }
+  ]
+}

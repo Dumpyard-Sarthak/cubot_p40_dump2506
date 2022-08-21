@@ -1,0 +1,53 @@
+﻿{
+  "Name": "星星猫耳",
+  "ID": "800674_1",
+  "Type": 1,
+  "loop": 1,
+  "music": "aaa.mp3",
+  "restart": [0],
+  "framerate": 10,
+  "texture": [
+    {
+      "mframeCount": 26,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 0,
+      "scale_Type": 0,
+      "scale_ratio": 180,
+      "anchor_offset_x": -350,
+      "anchor_offset_y": -460,
+      "asize_offset_x": 700,
+      "asize_offset_y": 386,
+      "mfaceCount": 1,
+      "imageName": "erduo_"
+    },
+    {
+      "mframeCount": 25,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 1,
+      "scale_Type": 0,
+      "scale_ratio": 180,
+      "anchor_offset_x": -350,
+      "anchor_offset_y": -100,
+      "asize_offset_x": 300,
+      "asize_offset_y": 200,
+      "mfaceCount": 1,
+      "imageName": "huzil_"
+    },
+    {
+      "mframeCount": 25,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 1,
+      "scale_Type": 0,
+      "scale_ratio": 180,
+      "anchor_offset_x": 50,
+      "anchor_offset_y": -100,
+      "asize_offset_x": 300,
+      "asize_offset_y": 200,
+      "mfaceCount": 1,
+      "imageName": "huzir_"
+    }
+  ]
+}

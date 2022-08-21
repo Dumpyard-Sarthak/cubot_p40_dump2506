@@ -1,0 +1,51 @@
+﻿{
+  "Name": "空姐",
+  "ID": "800456_1",
+  "Type": 1,
+  "loop": 1,
+  "music": "aaa.mp3",
+  "texture": [
+    {
+      "mframeCount": 30,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 1,
+      "scale_Type": 0,
+      "scale_ratio": 175,
+      "anchor_offset_x": -240,
+      "anchor_offset_y": -137,
+      "asize_offset_x": 488,
+      "asize_offset_y": 236,
+      "mfaceCount": 1,
+      "imageName": "bizi_"
+    },
+    {
+      "mframeCount": 30,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 3,
+      "scale_Type": 0,
+      "scale_ratio": 177,
+      "anchor_offset_x": -307,
+      "anchor_offset_y": -90,
+      "asize_offset_x": 680,
+      "asize_offset_y": 630,
+      "mfaceCount": 1,
+      "imageName": "sijin_"
+    },
+    {
+      "mframeCount": 30,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 0,
+      "scale_Type": 0,
+      "scale_ratio": 185,
+      "anchor_offset_x": -285,
+      "anchor_offset_y": -485,
+      "asize_offset_x": 580,
+      "asize_offset_y": 560,
+      "mfaceCount": 1,
+      "imageName": "maozi_"
+    }
+  ]
+}

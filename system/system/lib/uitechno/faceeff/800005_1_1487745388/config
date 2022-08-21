@@ -1,0 +1,36 @@
+﻿{
+  "Name": "小黄鸡",
+  "ID": "800005_1",
+  "Type": 1,
+  "loop": 1,
+  "music": "aaa.mp3",
+  "texture": [
+    {
+      "mframeCount": 36,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 0,
+      "scale_ratio": 180,
+      "anchor_offset_x": 40,
+      "anchor_offset_y": -358,
+      "asize_offset_x": 205,
+      "asize_offset_y": 170,
+      "mfaceCount": 1,
+      "imageName": "head_"
+    },
+    {
+      "mframeCount": 36,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 1,
+      "scale_Type": 0,
+      "scale_ratio": 160,
+      "anchor_offset_x": -164,
+      "anchor_offset_y": -144,
+      "asize_offset_x": 326,
+      "asize_offset_y": 148,
+      "mfaceCount": 1,
+      "imageName": "eye_"
+    }
+  ]
+}

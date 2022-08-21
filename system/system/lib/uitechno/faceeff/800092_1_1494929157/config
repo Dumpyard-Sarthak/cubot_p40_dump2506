@@ -1,0 +1,66 @@
+﻿{
+  "Name": "柴犬",
+  "ID": "800092_1",
+  "Type": 1,
+  "loop": 1,
+  "music": "aaa.mp3",
+  "texture": [
+     {
+      "mframeCount": 54,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 1,
+      "scale_Type": 0,
+      "scale_ratio": 200,
+      "anchor_offset_x": -380,
+      "anchor_offset_y": -173,
+      "asize_offset_x": 750,
+      "asize_offset_y": 340,
+      "mfaceCount": 1,
+      "imageName": "bizi_"
+    },
+    {
+      "mframeCount": 54,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 1,
+      "scale_ratio": 150,
+      "anchor_offset_x": -375,
+      "anchor_offset_y": -310,
+      "asize_offset_x": 750,
+      "asize_offset_y": 340,
+      "mfaceCount": 1,
+      "imageName": "meimao_"
+    },
+    {
+      "mframeCount": 54,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 3,
+      "scale_Type": 0,
+      "scale_ratio": 180,
+      "anchor_offset_x": -420,
+      "anchor_offset_y": -160,
+      "asize_offset_x": 800,
+      "asize_offset_y": 680,
+      "mfaceCount": 54,
+      "cover":"shou_0",
+      "expressiontype":1,
+      "imageName": "shou_"
+    },
+    {
+      "mframeCount": 54,
+      "radius_Type": 0,
+      "mradius": 0,
+      "mid_Type": 0,
+      "scale_Type": 0,
+      "scale_ratio": 220,
+      "anchor_offset_x": -375,
+      "anchor_offset_y": -500,
+      "asize_offset_x": 750,
+      "asize_offset_y": 340,
+      "mfaceCount": 1,
+      "imageName": "erduo_"
+    }
+  ]
+}
